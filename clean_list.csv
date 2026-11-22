@@ -1,0 +1,12 @@
+id,name,phone,email,year,branch
+1,Priya K,9840012345,priya.k@gmail.com,2,CSE
+2,Arun Kumar,9876543210,arun.kumar@yahoo.com,2,ECE
+3,Karthik V,9123456789,karthik.v@gmail.com,1,IT
+4,Sneha Reddy,9848022334,sneha.r@gmail.com,3,AIDS
+5,Manoj Sharma,9444112233,manoj.sharma@outlook.com,4,MECH
+6,Pooja Nair,9487123456,pooja.nair@gmail.com,1,EEE
+7,Vikas B,9789012345,vikas.b@gmail.com,2,CIVIL
+13,Rohan Mehta,8870123456,rohan.mehta@gmail.com,4,MECH
+16,Deepak Kumar,9940112233,deepak@gmail.com,3,other
+17,Nandhini G,9790123456,nandhini.g@gmail.com,1,AIDS
+18,Harish R,9884011223,harish.r@yahoo.com,4,ECE
